@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=WoongyuChoi&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=WoongyuChoi&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/lines/WoongyuChoi"
+    src="https://render.gitanimals.org/farms/WoongyuChoi"
     width="600"
-    height="120"
+    height="300"
   />
 </a>
 
